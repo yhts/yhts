@@ -10,7 +10,7 @@ DevOpsに興味
 ## 〇NOW TRAINING
 ![](https://skillicons.dev/icons?i=python,aws)
 
-<a href="https://app.daily.dev/suzukaym"><img src="https://api.daily.dev/devcards/v2/PB0LAPQbjnwV176Q45wI5.png?type=default&r=srv" width="200" alt="Ayumi Suzuki's Dev Card"/></a>
+<a href="https://app.daily.dev/suzukaym"><img src="https://api.daily.dev/devcards/v2/PB0LAPQbjnwV176Q45wI5.png?type=default&r=srv" width="215" alt="Ayumi Suzuki's Dev Card"/></a>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yhts)
 
 <!--
