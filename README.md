@@ -1,9 +1,12 @@
 ### Hi there 👋
+(工事中)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yhts&show_icons=true&locale=en&layout=compact)
+
 ## 〇
 ![](https://skillicons.dev/icons?i=html,css,js,C#,.net)
-## 〇learnin
+
+## 〇NOW TRAINING
 ![](https://skillicons.dev/icons?i=python,aws)
 
 <!--
