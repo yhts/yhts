@@ -11,7 +11,7 @@ DevOpsに興味
 ![](https://skillicons.dev/icons?i=python,aws)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yhts&show_icons=true&locale=en&layout=compact)
-<a href="https://app.daily.dev/suzukaym"><img src="https://api.daily.dev/devcards/v2/PB0LAPQbjnwV176Q45wI5.png?type=default&r=srv" width="356" alt="Ayumi Suzuki's Dev Card"/></a>
+<a href="https://app.daily.dev/suzukaym"><img src="https://api.daily.dev/devcards/v2/PB0LAPQbjnwV176Q45wI5.png?type=default&r=srv" width="200" alt="Ayumi Suzuki's Dev Card"/></a>
 
 <!--
 **yhts/yhts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
